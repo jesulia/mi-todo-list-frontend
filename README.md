@@ -107,7 +107,7 @@ docker compose up --build
 - Repositorio frontend: [https://github.com/jesulia/mi-todo-list-frontend](https://github.com/jesulia/mi-todo-list-frontend)
 - Repositorio backend: [https://github.com/jesulia/mi-todo-list-backend](https://github.com/jesulia/mi-todo-list-backend)
 
-(En caso de no poder subirlos como links, adjuntar en un `.txt` o `.doc`)
+
 
 ---
 
